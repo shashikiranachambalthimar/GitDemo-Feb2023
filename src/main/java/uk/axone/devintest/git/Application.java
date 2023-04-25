@@ -12,4 +12,9 @@ public class Application {
         System.out.printf("doing something");
 
     }
+
+    private void doSomethingElse(){
+        System.out.printf("doing somethingElse");
+
+    }
 }
