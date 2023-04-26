@@ -15,4 +15,8 @@ public class App_test {
         System.out.println("Running test 2");
     }
 
+    public void test3(){
+        System.out.println("Running test 3");
+    }
+
 }

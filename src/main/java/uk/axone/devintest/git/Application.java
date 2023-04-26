@@ -17,4 +17,8 @@ public class Application {
         System.out.printf("doing somethingElse");
 
     }
+    private void doSomethingNew(){
+        System.out.printf("doing somethingElse");
+
+    }
 }
