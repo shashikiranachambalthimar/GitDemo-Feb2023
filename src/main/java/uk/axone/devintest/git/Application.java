@@ -10,6 +10,7 @@ public class Application {
 
     private void doSomething(){
         System.out.printf("doing something");
+        System.out.printf("doing something new");
 
     }
 
